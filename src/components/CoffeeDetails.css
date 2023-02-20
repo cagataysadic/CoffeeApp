@@ -1,0 +1,51 @@
+.card {
+    float: left;
+    padding: 7%;
+}
+.card-title {
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+img {
+    align-items: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.card-ingredients {
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    color: darkgoldenrod;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+.card-description {
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    color: darkred;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+.home-button {
+    text-align: center;
+    margin: auto;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    color: darkred;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    background-color: chocolate;
+}
